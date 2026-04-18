@@ -1,3 +1,3 @@
-## This project implements an end-to-end MLOps pipeline for detecting malicious network activity using machine learning/deep learning models. The system is designed to handle continuous data inflow, automate training, and deploy models for real-time or batch predictions.
+#### This project implements an end-to-end MLOps pipeline for detecting malicious network activity using machine learning/deep learning models. The system is designed to handle continuous data inflow, automate training, and deploy models for real-time or batch predictions.
 
-## The primary objective is to classify network traffic into benign or malicious categories, enabling proactive security monitoring.
+#### The primary objective is to classify network traffic into benign or malicious categories, enabling proactive security monitoring.
