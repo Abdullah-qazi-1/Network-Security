@@ -1,2 +1,3 @@
 mlovenv
 .env
+__pycache__/
